@@ -2,6 +2,12 @@
   "author": "joe joe",
   "name": "fcc-learn-npm-package-json",
   "description": "A project that does something awesome",
+  "keywords": [
+    "descriptive",
+    "related",
+    "words",
+    "freeCodeCamp"
+  ],
   "dependencies": {
     "express": "^4.14.0"
   },
